@@ -97,3 +97,12 @@ body{
 .social>a:hover{
     color: var(--edl-secondary-color);
 }
+.odd{
+    font-weight: bold;
+    font-size: 2rem;
+    color: red;
+}
+.even{
+    font-size: 1.5rem;
+    color: blue
+}
